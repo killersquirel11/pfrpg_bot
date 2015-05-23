@@ -1,0 +1,7 @@
+.pfrpg_bot.cfg
+.*.swp
+*.pyc
+magic/
+magic-items/
+*.html
+
